@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../SPI.srcs/sim_1/imports/TB" \
+"../../../../SPI.srcs/sim_1/imports/Design/Memory.sv" \
+"../../../../SPI.srcs/sim_1/imports/Design/controller.sv" \
+"../../../../SPI.srcs/sim_1/imports/Design/Top_interface.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

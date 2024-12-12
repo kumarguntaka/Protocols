@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.srcs/sim_1/imports/Design/Memory.sv,1708560729,systemVerilog,,E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.srcs/sim_1/imports/Design/controller.sv,,spi_mem,,uvm,../../../../SPI.srcs/sim_1/imports/TB,,,,,
+E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.srcs/sim_1/imports/Design/Top_interface.sv,1708560889,systemVerilog,,,,spi_i;top,,uvm,../../../../SPI.srcs/sim_1/imports/TB,,,,,
+E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.srcs/sim_1/imports/Design/controller.sv,1708560726,systemVerilog,,E:/Projects/Verification/UVM/SPI/vivado/SPI/SPI.srcs/sim_1/imports/Design/Top_interface.sv,,spi_intf,,uvm,../../../../SPI.srcs/sim_1/imports/TB,,,,,
